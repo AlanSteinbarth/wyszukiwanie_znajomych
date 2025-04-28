@@ -1,0 +1,10 @@
+openai
+streamlit
+pandas
+plotly
+dotenv
+pycaret[full]==3.3.2
+### dodatkowe biblioteki które mogą być potrzebne(chat GPT wskazuje na przyczynę błędu)
+scikit-learn
+joblib
+numpy
